@@ -14,6 +14,7 @@ import javax.persistence.Table;
 @Entity
 @Getter
 @Setter
+
 @NoArgsConstructor
 @AllArgsConstructor
 public class Loan {
